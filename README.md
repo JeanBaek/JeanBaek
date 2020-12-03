@@ -19,6 +19,7 @@
 * React
 * React Router
 * React Native
+* Redux
 * Styled-components
 * Git, GitHub
 * Scrum Process
