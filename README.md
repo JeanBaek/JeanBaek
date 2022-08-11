@@ -1,25 +1,28 @@
-# 백은진
-**JUNIOR FRONT-END DEVELOPER**
+# Thank you for stopping by, I am Jean Baek. 
+**I am a junior software engineer with 2 years of experience developing and launching software products.** 
+<br />
+**I am interested in services that support people in enjoying life and focusing on valuable things.**
+<br />
+<br />
+## 반갑습니다, 백은진입니다. 
+**웹 서비스 출시 경험이 있는 2년차 프론트엔드 엔지니어입니다.**
+**사람들이 보다 삶을 즐기고 가치있는 것에 집중할 수 있도록 돕는 서비스에 관심이 있습니다.**
+<br />
+<br />
 
-## ABOUT ME
-사람들과 소통하며 사람의 가치를 느낄 때 행복합니다. <br />
-혼자 이루기 어려운 일을 다른 이들과 함께 이뤄내는 데 협업의 의미를 느낍니다. <br />
-기술을 통해 사회적 평등을 이루고, 더 나은 세상으로 향할 수 있다고 믿습니다. 
+### COMPETENCIES
+- JavaScript(ES6+)/TypeScript/Python
+- HTML/CSS(Sass, styled-components)
+- React/React Native/Rxjs/Redux
+- Webpack/Babel
+- AWS(ECR/CodePipeline)/Docker/Kubernetes/ArgoCD
+- Map implementation/Geospatial analysis
 
-## CONTACT DETAILS
+### CONTACT DETAILS
 * **E-mail** jeanbaek710@gmail.com
 * **Blog** [velog.io/@jeanbaek](https://velog.io/@jeanbaek)
 
-## COMPETENCIES
+<br />
+<br />
 
-* HTML
-* CSS, Sass 
-* Javascript ES6 
-* TypeScript
-* React
-* React Router
-* React Native
-* Redux
-* Styled-components
-* Git, GitHub
-* Scrum Process
+<div align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeanBaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
