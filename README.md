@@ -18,9 +18,8 @@
 - AWS(ECR/CodePipeline)/Docker/Kubernetes/ArgoCD
 - Map implementation/Geospatial analysis
 
-### CONTACT DETAILS
-* **E-mail** jeanbaek710@gmail.com
-* **Blog** [velog.io/@jeanbaek](https://velog.io/@jeanbaek)
+### CONTACT
+* **Email** jeanbaekkor@gmail.com
 
 <br />
 <br />
