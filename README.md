@@ -18,6 +18,11 @@
 - AWS(ECR/CodePipeline)/Docker/Kubernetes/ArgoCD
 - Map implementation/Geospatial analysis
 
+### ARTICLES
+- [나의 스무살 이후 이야기 (2020.12)](https://velog.io/@jeanbaek/self-introduction)
+- [나의 개발자 이야기 (2020.11)](https://velog.io/@jeanbaek/%EB%82%98%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+- [어떤 개발자가 되고 싶을까 (2020.10)](https://velog.io/@jeanbaek/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%84%EA%B9%8C)
+
 ### CONTACT
 * **Email** jeanbaekkor@gmail.com
 
