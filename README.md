@@ -6,17 +6,20 @@
 <br />
 ## 반갑습니다, 백은진입니다. 
 **웹 서비스 출시 경험이 있는 2년차 프론트엔드 엔지니어입니다.**
+<br />
 **사람들이 보다 삶을 즐기고 가치있는 것에 집중할 수 있도록 돕는 서비스에 관심이 있습니다.**
 <br />
 <br />
 
 ### COMPETENCIES
-- JavaScript(ES6+)/TypeScript/Python
+<img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanBaek&layout=compact&langs_count=8&theme=graywhite"/>
+
+- JavaScript(ES6+)/TypeScript
 - HTML/CSS(Sass, styled-components)
 - React/React Native/Rxjs/Redux
 - Webpack/Babel
-- AWS(ECR/CodePipeline)/Docker/Kubernetes/ArgoCD
-- Map implementation/Geospatial analysis
+- AWS(EC2/ECR/CodePipeline)/Docker/Kubernetes/ArgoCD
+- Map Implementation/Geospatial Analysis
 
 ### ARTICLES
 - [나의 스무살 이후 이야기 (2020.12)](https://velog.io/@jeanbaek/self-introduction)
