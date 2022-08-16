@@ -12,14 +12,17 @@
 <br />
 
 ### COMPETENCIES
-<img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanBaek&layout=compact&langs_count=8&theme=graywhite"/>
-
 - JavaScript(ES6+)/TypeScript
 - HTML/CSS(Sass, styled-components)
 - React/React Native/Rxjs/Redux
 - Webpack/Babel
 - AWS(EC2/ECR/CodePipeline)/Docker/Kubernetes/ArgoCD
 - Map Implementation/Geospatial Analysis
+
+<img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanBaek&layout=compact&langs_count=8&theme=graywhite"/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jeanbaek)](https://solved.ac/jeanbaek)
 
 ### ARTICLES
 - [나의 스무살 이후 이야기 (2020.12)](https://velog.io/@jeanbaek/self-introduction)
