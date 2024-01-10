@@ -5,16 +5,19 @@
 <br />
 <br />
 ## 반갑습니다, 백은진입니다. 
-**웹 서비스 출시 경험이 있는 2년차 프론트엔드 엔지니어입니다.**
+**웹 서비스 출시 경험이 있는 3년차 프론트엔드 엔지니어입니다.**
 <br />
 **사람들이 보다 삶을 즐기고 가치있는 것에 집중할 수 있도록 돕는 서비스에 관심이 있습니다.**
+<br />
+**Seed stage에서 공개채용 첫 입사자로 합류하여 서비스 출시/125억 규모 시리즈 A 유치/조직인원 4배 성장을 경험하였습니다.**
 <br />
 <br />
 
 ### COMPETENCIES
 - JavaScript(ES6+)/TypeScript
 - HTML/CSS(Sass, styled-components)
-- React/React Native/Rxjs/Redux
+- Next.js/React/React Native
+- Rxjs/Redux
 - Webpack/Babel
 - AWS(EC2/ECR/CodePipeline)/Docker/Kubernetes/ArgoCD
 - Map Implementation/Geospatial Analysis
@@ -30,7 +33,7 @@
 - [어떤 개발자가 되고 싶을까 (2020.10)](https://velog.io/@jeanbaek/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%84%EA%B9%8C)
 
 ### CONTACT
-* **Email** jeanbaekkor@gmail.com
+* **Email** jeanbaek710@gmail.com
 
 <br />
 <br />
