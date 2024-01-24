@@ -1,5 +1,5 @@
 # Thank you for stopping by, I am Jean Baek. 
-**I am a junior software engineer with 2 years of experience developing and launching software products.** 
+**I am a junior software engineer with 3 years of experience developing and launching software products.** 
 <br />
 **I am interested in services that support people in enjoying life and focusing on valuable things.**
 <br />
