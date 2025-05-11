@@ -1,5 +1,5 @@
 ## 반갑습니다, 백은진입니다. 
-**웹 서비스 출시 경험이 있는 3년차 프론트엔드 엔지니어입니다.**<br />
+**웹 서비스 출시 경험이 있는 4년차 프론트엔드 엔지니어입니다.**<br />
 <br />
 **제 능력을 활용하여 어떤 유무형의 물건을 만들어낼 때 설레입니다.**<br />
 **사람들이 자신의 삶을 즐기고, 자신이 좋아하는 것에 집중할 수 있도록 돕는 서비스에 관심이 있습니다.**<br />
@@ -25,8 +25,3 @@
 
 ### CONTACT
 * **Email** jeanbaek710@gmail.com
-
-<br />
-<br />
-
-<div align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeanBaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
